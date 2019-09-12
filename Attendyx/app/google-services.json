@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "800061990963",
+    "firebase_url": "https://attendance-analyser-ca4d3.firebaseio.com",
+    "project_id": "attendance-analyser-ca4d3",
+    "storage_bucket": "attendance-analyser-ca4d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800061990963:android:4f84503abd7441ec47db46",
+        "android_client_info": {
+          "package_name": "io.github.srujanmhase.attendyx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800061990963-65r1msr04r1t29k976ojp960jj33t45e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPDnMfawBVL2iqvjvq_7LWHkWYWjB8228"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800061990963-65r1msr04r1t29k976ojp960jj33t45e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

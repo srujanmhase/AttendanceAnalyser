@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Attendance Analyser</string>
+    <string name="first_input">Number of Lectures you have attended</string>
+    <string name="second_input">Total number of lectures conducted</string>
+    <string name="tgt_att">Target attendance percent Eg. 75</string>
+    <string name="button_text">Fire Up!</string>
+    <string name="input_warning">Integers Only</string>
+    <string name="tgtinput_warning">Integers Only from 0 to 99</string>
+    <string name="def_txt">Enter Valid Parameters and Fire Up to Analyze</string>
+    <string name="invalid_ip">Invalid Input Parameters passed. Target attendance has be to below 99 and total number of lectures attended should be lower than total lectures conducted</string>
+    <string name="sipositive">Secure think function initialization positive</string>
+    <string name="dynamoOne">You are above and beyond your target %1$s %%</string>
+    <string name="dynamoTwo">You can miss the next %1$s lectures and still be above your target</string>
+    <string name="equal">Your attendance is exactly equal to your target</string>
+    <string name="lowo">Your current attendance is below your target. You will have to attend %1$s lectures without break to achieve your target attendance</string>
+    <string name="lowt">To find out how many lectures you\'ll have to sit to achieve your target if you miss the next lecture too, just add one to your total lectures conducted and keep your attended lectures the same</string>
+</resources>
